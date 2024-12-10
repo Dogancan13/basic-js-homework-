@@ -1,6 +1,7 @@
 //Exercise One
 //Decription: Using prompt() display a dialog box that prompts the visitor for input. Will return null on 'Cancel' or the value provided on 'Ok'
 //Action: Ask the user how much money he has, and depending on the value, suggest to him what he should do
+console.log("Hello from JavaScript updated");
 
 // Prompt the user for the amount of money they have
 let money = prompt("How much money do you have?");
